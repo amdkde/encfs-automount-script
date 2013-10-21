@@ -17,4 +17,6 @@ char pwd [YourEncfsKeyLongInIntegers];
 
 Compile the program (with gcc, for example) creating the PWD program using in the bash script:
 
+gcc pwd.c -o PWD
 
+And now you can use the bash script
